@@ -1,3 +1,3 @@
 FROM nginx
 
-COPY jenkins-proxy.conf /etc/nginx/conf.d/default.conf
+COPY jenkins-proxy.conf /etc/nginx/conf.d/jenkins.conf
